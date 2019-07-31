@@ -6,7 +6,7 @@ A Java command tool for getting the urls within a hole domain into a text file.
 
 ## Use
 ```
-  java -jar urlexplorer.jar http://example.com/
+  java -jar urlreader.jar http://example.com/
 ```
 
   
